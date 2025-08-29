@@ -1,6 +1,6 @@
-<!-- Banner Image -->
+<!-- Banner GIF -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/banner.gif" alt="banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/drupad-2027/drupad-2027/main/banner.gif" alt="banner" width="100%" />
 </p>
 
 <!-- Name with Gradient Color -->
