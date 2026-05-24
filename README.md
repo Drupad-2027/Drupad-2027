@@ -76,12 +76,22 @@
 
 ---
 
+---
+
 ### 📊 GitHub Stats  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=drupad-2027&show_icons=true&theme=tokyonight" alt="github-stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=drupad-2027&theme=tokyonight" alt="github-streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Drupad-2027&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drupad-2027&layout=compact&theme=tokyonight" alt="top-langs"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Drupad-2027&theme=tokyonight" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Drupad-2027&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Drupad-2027&theme=tokyonight" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Drupad-2027&theme=tokyonight&utcOffset=5.5" />
 </p>
