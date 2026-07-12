@@ -34,7 +34,7 @@
 - 👨‍💻 Explore my projects at **<a href="https://drupad-2027.github.io/Portfolio">My Portfolio</a>**.
 - 📝 I will soon start writing technical blogs on **<a href="https://medium.com/@drupad_2027">Medium</a>**.
 - 📫 Reach me at **dhamdheredrupad@gmail.com**.
-- ⚡ Fun fact: **National-Level Swimmer 🏊‍♂️ | Passionate Full Stack Developer 💻**
+- ⚡ Fun fact: Former National-Level Swimmer 🏊‍♂️ | Passionate Full Stack Developer 💻
 ---
 
 ### 🌐 Connect with Me  
