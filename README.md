@@ -23,17 +23,18 @@
 
 ---
 
-### 👨‍💻 About Me  
-- 🔭 I’m currently working on **Cyberwatch (Final Year Project)**  
-- 🌱 I’m currently learning **Python, Django, Flask, Cloud Computing (OCI), MySQL HeatWave**  
-- 👯 I’m looking to collaborate on **Web Development and Machine Learning projects**  
-- 🤝 I’m looking for help with **Advanced Python Full Stack (Django/Flask)**  
-- 👨‍💻 All of my projects are available at [My Portfolio](https://drupad-2027.github.io/Portfolio)  
-- 📝 I will soon start writing on **[Medium](https://medium.com/@drupad_2027)**  
-- 💬 Ask me about **Web Development, Databases (MySQL/MongoDB), Python, Machine Learning**  
-- 📫 Reach me at **dhamdheredrupad@gmail.com**  
-- ⚡ Fun fact: **I’m a national-level swimmer and a tech enthusiast 🏊‍♂️💻**  
+### 👨‍💻 About Me
 
+- 💼 Currently working as a **MERN Stack Developer Intern** at **Indux Technology**.
+- 🎓 Bachelor of Engineering (B.E.) in Information Technology.
+- 🌱 Currently learning **Advanced Full Stack Development, Next.js, TypeScript, Prisma ORM, PostgreSQL and Cloud Computing (OCI)**.
+- 🔭 Currently building **real-world full-stack applications** using **React, Next.js, Node.js, Express.js, Prisma ORM and PostgreSQL**.
+- 👯 Looking to collaborate on **Full Stack Web Development and Open Source Projects**.
+- 💬 Ask me about **React, Node.js, Express.js, Prisma ORM, PostgreSQL, MongoDB, Git and SQL**.
+- 👨‍💻 Explore my projects at **<a href="https://drupad-2027.github.io/Portfolio">My Portfolio</a>**.
+- 📝 I will soon start writing technical blogs on **<a href="https://medium.com/@drupad_2027">Medium</a>**.
+- 📫 Reach me at **dhamdheredrupad@gmail.com**.
+- ⚡ Fun fact: **National-Level Swimmer 🏊‍♂️ | Passionate Full Stack Developer 💻**
 ---
 
 ### 🌐 Connect with Me  
@@ -46,32 +47,74 @@
 
 ---
 
-### 🛠 Languages and Tools  
-<p align="center"> 
-  <!-- Core Web -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> 
-  
-  <!-- Programming Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> 
-  
-  <!-- Databases -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
-  
-  <!-- Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
-  
-  <!-- Others -->
-  <img src="https://img.icons8.com/color/48/power-bi.png" alt="powerbi" width="40" height="40"/> 
+### 🛠 Languages and Tools
+
+<p align="center">
+
+<!-- Programming Languages -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+
+</p>
+
+<p align="center">
+
+<p align="center">
+
+<!-- Frontend -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+
+</p>
+
+<p align="center">
+
+<!-- Backend -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
+
+</p>
+
+<p align="center">
+
+<!-- Databases -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+
+</p>
+
+<p align="center">
+
+<!-- Version Control -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+
+</p>
+
+<p align="center">
+
+<!-- Libraries & Tools -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="40" height="40"/>
+
+</p>
+
+
+
+<p align="center">
+
+<!-- Other Skills -->
+<img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="SEO"/>
+
 </p>
 
 ---
