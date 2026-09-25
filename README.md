@@ -30,10 +30,7 @@
 
 ## About Me
 
-```
-I engineer full-stack web applications and explore machine learning systems,
-with a focus on writing clean, scalable, production-minded code.
-```
+> I engineer full-stack web applications and explore machine learning systems, with a focus on writing clean, scalable, production-minded code.
 
 - 🎓 Information Technology undergraduate at **PES Modern College of Engineering, SPPU** — CGPA **9.14**
 - 💼 Hands-on experience as a **MERN Stack Developer**, building an enterprise-grade insurance management platform
