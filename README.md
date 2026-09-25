@@ -96,7 +96,6 @@ A machine learning model built to predict stock prices using historical market d
 | **Performance** | Model evaluated on trained/test data splits |
 | **Security** | Local data processing, no external data exposure |
 | **Impact** | Demonstrates applied ML workflow from data to prediction |
-| **Repository** | _Add repository link_ |
 
 Performed data preprocessing, visualization, and model training using Pandas, Scikit-learn, and Matplotlib to build a working predictive pipeline for stock price movement.
 
